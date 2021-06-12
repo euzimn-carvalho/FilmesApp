@@ -1,10 +1,13 @@
 # FilmesApp 
 #### Aplicativo criado com React Native e a API de filmes TMDB com objetivo de aprender os componentes do React
 #
+![capa](https://user-images.githubusercontent.com/81441326/121782462-e6e53c00-cb7f-11eb-8f2e-01f1cded331d.PNG)
+#
+#
 > Status: Desenvolvimento 👨‍💻
 #
 #
-Aplicativo com foco em ajudar outros desenvolvedores que estão começando com React-native e possuem dúvidas no uso dos Componentes mais básicos!
+Aplicativo com foco em ajudar outros desenvolvedores que estão começando com React-Native e possuem dúvidas no uso dos Componentes mais básicos!
 #
 #### Api Utilizada para buscar os catálogos dos filmes
 https://www.themoviedb.org/documentation/api
@@ -38,3 +41,11 @@ https://reactnative.dev/docs/environment-setup
 6. Caso esteja utilizando um mac e deseja executar no Iphone execute o comando **npx react-native run-ios**
 7. Aguarde a execução e em breve o aplicativo abrirá no seu Emulador ou Dispositivo
 
+## Próximas etapas
+* Comentar todo o Projeto
+* Criação de componente para loading dos filmes e imagens
+* Criação da Paginação
+* Criação de tabs - Populares, Em Cartaz e Mais Bem Avaliados
+
+## Considerações Finais
+Obrigado por acompanhar a produção e evolução desse projeto. Sei que é um projeto simples mas é de grande ajuda para aqueles que estão começando nesse meio.
